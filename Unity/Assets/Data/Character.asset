@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f86ef82671213a84fbe057e0455461a7, type: 3}
+  m_Name: Character
+  m_EditorClassIdentifier: 
+  SheetName: Assets/Data/Data.xlsx
+  WorksheetName: Character
+  dataArray:
+  - id: 10101
+    name: "\uC778\uBBF8\uB098"
+    position: "\uD68C\uC0AC\uC6D0"
+    image: girlbasic
+    description: "\uC778\uBBF8\uB098_\uAE30\uBCF8\uD45C\uC815"
+  - id: 10201
+    name: "\uC778\uBBF8\uB098"
+    position: "\uD68C\uC0AC\uC6D0"
+    image: girlangry
+    description: "\uC778\uBBF8\uB098_\uD654\uB09C\uD45C\uC815"
+  - id: 10301
+    name: "\uC778\uBBF8\uB098"
+    position: "\uD68C\uC0AC\uC6D0"
+    image: girlcry
+    description: "\uC778\uBBF8\uB098_\uC6B0\uB294\uD45C\uC815"
+  - id: 10401
+    name: "\uC778\uBBF8\uB098"
+    position: "\uD68C\uC0AC\uC6D0"
+    image: girlgray
+    description: "\uC778\uBBF8\uB098_\uD68C\uC0C9"
+  - id: 0
+    name: 
+    position: 
+    image: 
+    description: 

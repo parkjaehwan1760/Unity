@@ -16,4 +16,7 @@ MonoBehaviour:
   WorksheetName: Test
   dataArray:
   - id_i: 0
-    name_s: bbno
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
